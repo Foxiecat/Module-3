@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligEn", "ObligEn\ObligEn.csproj", "{44A9D165-5029-44FB-85FA-9C3F592342BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligEnTest", "ObligEnTest\ObligEnTest.csproj", "{0C1EB5E5-F895-4E87-B957-654EE2C4FB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A9D165-5029-44FB-85FA-9C3F592342BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A9D165-5029-44FB-85FA-9C3F592342BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A9D165-5029-44FB-85FA-9C3F592342BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A9D165-5029-44FB-85FA-9C3F592342BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1EB5E5-F895-4E87-B957-654EE2C4FB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1EB5E5-F895-4E87-B957-654EE2C4FB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1EB5E5-F895-4E87-B957-654EE2C4FB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1EB5E5-F895-4E87-B957-654EE2C4FB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess.deps.json
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess.runtimeconfig.json
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess.runtimeconfig.dev.json
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess.dll
+/home/danica/RiderProjects/ObligTo/SimpleChess/bin/Debug/netcoreapp3.1/SimpleChess.pdb
+/home/danica/RiderProjects/ObligTo/SimpleChess/obj/Debug/netcoreapp3.1/SimpleChess.csprojAssemblyReference.cache
+/home/danica/RiderProjects/ObligTo/SimpleChess/obj/Debug/netcoreapp3.1/SimpleChess.AssemblyInfoInputs.cache
+/home/danica/RiderProjects/ObligTo/SimpleChess/obj/Debug/netcoreapp3.1/SimpleChess.AssemblyInfo.cs
+/home/danica/RiderProjects/ObligTo/SimpleChess/obj/Debug/netcoreapp3.1/SimpleChess.dll
+/home/danica/RiderProjects/ObligTo/SimpleChess/obj/Debug/netcoreapp3.1/SimpleChess.pdb

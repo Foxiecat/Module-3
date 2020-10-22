@@ -1,0 +1,12 @@
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/startlist.csv
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste.deps.json
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste.runtimeconfig.json
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste.runtimeconfig.dev.json
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste.dll
+/home/danica/RiderProjects/M3/Startliste/Startliste/bin/Debug/netcoreapp3.1/Startliste.pdb
+/home/danica/RiderProjects/M3/Startliste/Startliste/obj/Debug/netcoreapp3.1/Startliste.csprojAssemblyReference.cache
+/home/danica/RiderProjects/M3/Startliste/Startliste/obj/Debug/netcoreapp3.1/Startliste.AssemblyInfoInputs.cache
+/home/danica/RiderProjects/M3/Startliste/Startliste/obj/Debug/netcoreapp3.1/Startliste.AssemblyInfo.cs
+/home/danica/RiderProjects/M3/Startliste/Startliste/obj/Debug/netcoreapp3.1/Startliste.dll
+/home/danica/RiderProjects/M3/Startliste/Startliste/obj/Debug/netcoreapp3.1/Startliste.pdb

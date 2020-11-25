@@ -1,0 +1,13 @@
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.exe
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.deps.json
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.runtimeconfig.json
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.runtimeconfig.dev.json
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.dll
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\bin\Debug\netcoreapp3.1\SodaMachine.pdb
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.csprojAssemblyReference.cache
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.AssemblyInfoInputs.cache
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.AssemblyInfo.cs
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.csproj.CoreCompileInputs.cache
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.dll
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.pdb
+C:\Users\White\RiderProjects\SodaMachine\SodaMachine\obj\Debug\netcoreapp3.1\SodaMachine.genruntimeconfig.cache

@@ -45,8 +45,3 @@ namespace SodaMachine
         }
     }
 }
-
-//If the sodas are objects:
-// Soda cola = new Soda("Cola", 20, 1);
-// Soda pepsi = new Soda("Pepsi", 15, 2);
-// Soda fanta = new Soda("Fanta", 25, 3);

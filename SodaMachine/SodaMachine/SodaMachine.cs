@@ -1,10 +1,12 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SodaMachine
 {
-    public class SodaMachine //Make SodaMachine 
+    public class SodaMachine
     {
-        public int InsertAmount { get; set; }
+        public int InsertAmount { get; private set; }
 
         public SodaCtor AddSoda(string name, int price)
         {
@@ -15,21 +17,24 @@ namespace SodaMachine
         public string ReturnMoney(int amount)
         {
             InsertAmount -= amount;
-            return $"You returned {amount}";
+            return $"Returned {amount}";
         }
 
         public string Buy(SodaCtor soda)
         {
-            Console.WriteLine($"You're trying to buy {soda.Name}");
             if (InsertAmount < soda.Price) return "Please insert enough money";
             InsertAmount -= soda.Price;
             return $"You bought a {soda.Name}";
         }
 
-        public int InsertMoney(int amount)
+        public void InsertMoney(int amount)
         {
             InsertAmount += amount;
-            return amount;
+        }
+
+        public SodaCtor Selection(string command, IEnumerable<SodaCtor> soda)
+        {
+            return soda.FirstOrDefault(s => s != null && s.Name == command.ToLower());
         }
     }
 }

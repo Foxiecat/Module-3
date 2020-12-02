@@ -10,15 +10,12 @@ namespace SodaMachine
         public static void Main(string[] args)
         {
             var sodaMachine = new SodaMachine();
-
-            SodaCtor cola;
-            SodaCtor pepsi;
-            SodaCtor fanta;
+            
             var soda = new []
             {
-                cola = sodaMachine.AddSoda("cola", 20),
-                pepsi = sodaMachine.AddSoda("pepsi", 15),
-                fanta = sodaMachine.AddSoda("fanta", 10),
+                sodaMachine.AddSoda("cola", 20),
+                sodaMachine.AddSoda("pepsi", 15),
+                sodaMachine.AddSoda("fanta", 10),
             };
 
             while (true)

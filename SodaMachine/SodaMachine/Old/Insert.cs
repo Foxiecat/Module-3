@@ -4,8 +4,8 @@ namespace SodaMachine
 {
     public class Insert
     {
-        public static int InsertAmount { get; set; }
-        public static void InsertMoney()
+        public int InsertAmount { get; set; }
+        public void InsertMoney()
         {
             Console.WriteLine("Please insert an amount of money:");
 

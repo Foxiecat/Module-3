@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj": {}
+    "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj": {
+    "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
+        "projectUniqueName": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
         "projectName": "SodaMachine",
-        "projectPath": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
+        "projectPath": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
         "packagesPath": "C:\\Users\\White\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\obj\\",
+        "outputPath": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\White\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
+    "projectUniqueName": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
     "projectName": "SodaMachine",
-    "projectPath": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
-    "outputPath": "C:\\Users\\White\\RiderProjects\\SodaMachine\\SodaMachine\\obj\\",
+    "projectPath": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\SodaMachine.csproj",
+    "outputPath": "C:\\Users\\White\\RiderProjects\\Module 3\\SodaMachine\\SodaMachine\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

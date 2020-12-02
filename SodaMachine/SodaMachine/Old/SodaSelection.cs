@@ -5,9 +5,11 @@ namespace SodaMachine
 {
     public class SodaSelection
     {
-        private static int SelectSoda { get; set; }
-        public static void Selection()
+        private int SelectSoda { get; set; }
+        public void Selection()
         {
+            var insert = new Insert();
+            var returnMoney = new MoneyReturn();
 
             Console.WriteLine("1 = Cola, 2 = Pepsi, 3 = Fanta");
             
@@ -24,22 +26,22 @@ namespace SodaMachine
 
             switch (SelectSoda)
             {
-                case 1 when Insert.InsertAmount >= 20:
-                    Insert.InsertAmount -= 20;
+                case 1 when insert.InsertAmount >= 20:
+                    insert.InsertAmount -= 20;
                     Console.WriteLine($"Dispensing Cola...");
-                    MoneyReturn.ReturnMoney();
+                    returnMoney.ReturnMoney();
                     break;
                 
-                case 2 when Insert.InsertAmount >= 15:
-                    Insert.InsertAmount -= 15;
+                case 2 when insert.InsertAmount >= 15:
+                    insert.InsertAmount -= 15;
                     Console.WriteLine($"Dispensing Pepsi...");
-                    MoneyReturn.ReturnMoney();
+                    returnMoney.ReturnMoney();
                     break;
                 
-                case 3 when Insert.InsertAmount >= 25:
-                    Insert.InsertAmount -= 25;
+                case 3 when insert.InsertAmount >= 25:
+                    insert.InsertAmount -= 25;
                     Console.WriteLine($"Dispensing Fanta...");
-                    MoneyReturn.ReturnMoney();
+                    returnMoney.ReturnMoney();
                     break;
             }
         }
